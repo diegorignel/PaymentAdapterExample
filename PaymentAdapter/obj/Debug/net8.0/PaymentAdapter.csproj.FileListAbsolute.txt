@@ -1,0 +1,14 @@
+C:\Projetos\.Net\PaymentAdapterExample\PaymentAdapter\bin\Debug\net8.0\PaymentAdapter.exe
+C:\Projetos\.Net\PaymentAdapterExample\PaymentAdapter\bin\Debug\net8.0\PaymentAdapter.deps.json
+C:\Projetos\.Net\PaymentAdapterExample\PaymentAdapter\bin\Debug\net8.0\PaymentAdapter.runtimeconfig.json
+C:\Projetos\.Net\PaymentAdapterExample\PaymentAdapter\bin\Debug\net8.0\PaymentAdapter.dll
+C:\Projetos\.Net\PaymentAdapterExample\PaymentAdapter\bin\Debug\net8.0\PaymentAdapter.pdb
+C:\Projetos\.Net\PaymentAdapterExample\PaymentAdapter\obj\Debug\net8.0\PaymentAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\.Net\PaymentAdapterExample\PaymentAdapter\obj\Debug\net8.0\PaymentAdapter.AssemblyInfoInputs.cache
+C:\Projetos\.Net\PaymentAdapterExample\PaymentAdapter\obj\Debug\net8.0\PaymentAdapter.AssemblyInfo.cs
+C:\Projetos\.Net\PaymentAdapterExample\PaymentAdapter\obj\Debug\net8.0\PaymentAdapter.csproj.CoreCompileInputs.cache
+C:\Projetos\.Net\PaymentAdapterExample\PaymentAdapter\obj\Debug\net8.0\PaymentAdapter.dll
+C:\Projetos\.Net\PaymentAdapterExample\PaymentAdapter\obj\Debug\net8.0\refint\PaymentAdapter.dll
+C:\Projetos\.Net\PaymentAdapterExample\PaymentAdapter\obj\Debug\net8.0\PaymentAdapter.pdb
+C:\Projetos\.Net\PaymentAdapterExample\PaymentAdapter\obj\Debug\net8.0\PaymentAdapter.genruntimeconfig.cache
+C:\Projetos\.Net\PaymentAdapterExample\PaymentAdapter\obj\Debug\net8.0\ref\PaymentAdapter.dll
